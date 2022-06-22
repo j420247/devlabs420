@@ -7,7 +7,7 @@
     "@azure/arm-devtestlabs": "^3.2.0",
     "@azure/arm-resources": "^1.1.0",
     "@azure/ms-rest-js": "^2.0.4",
-    "@azure/ms-rest-nodeauth": "^2.0.3",
+    "@azure/ms-rest-nodeauth": "^3.0.8",
     "@azure/storage-blob": "^10.4.0",
     "azure-pipelines-task-lib": "^2.8.0",
     "isomorphic-fetch": "^2.2.1",
